@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mccallbliss
 - 👀 I’m interested in music, film, code, women's empowerment
-- 🌱 I’m currently learning React / Redux
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on web applications of any type 
 - 📫 How to reach me - @missmccallkay
 
